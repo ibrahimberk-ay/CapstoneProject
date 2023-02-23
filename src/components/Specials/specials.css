@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Markazi+Text&display=swap");
+
+.specials_container {
+  margin-top: 130px;
+}
+
+.specials__row_2 {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 0 auto;
+}
+.specials__card {
+  margin: 20px;
+}
+
+.specials__row_1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 770px;
+  margin: 0 auto 0 auto;
+}
+.specials__title {
+  font-family: "Markazi Text", serif;
+  font-size: 40pt;
+  font-weight: lighter;
+}
+
+@media only screen and (max-width: 600px) {
+}

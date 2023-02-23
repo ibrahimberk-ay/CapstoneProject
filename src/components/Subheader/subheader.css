@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Markazi+Text&display=swap");
+.subheader {
+  background-color: #495e57;
+}
+
+.subheader__main {
+  height: 330px;
+  display: flex;
+  width: 750px;
+  margin: 0 auto 0 auto;
+}
+.subheader__image {
+  margin-top: 10px;
+  width: 250px;
+  height: 300px;
+  border-radius: 14px;
+  object-fit: cover;
+}
+
+.subheader_col_1 {
+  margin-right: 100px;
+}
+
+.subheader__heading {
+  color: #f4ce14;
+  font-family: "Markazi Text", serif;
+  font-size: 50pt;
+  font-weight: lighter;
+}
+
+.subheader__subheading {
+  font-family: "Markazi Text", serif;
+  color: #edefee;
+  font-size: 30pt;
+  font-weight: lighter;
+}
+
+.subheader__paragraph {
+  font-family: "Inter", sans-serif;
+  color: #edefee;
+  font-weight: lighter;
+}
