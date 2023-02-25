@@ -1,7 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Markazi+Text&display=swap");
-.subheader {
-  background-color: #495e57;
-}
 
 .subheader__main {
   height: 330px;
@@ -37,6 +34,6 @@
 
 .subheader__paragraph {
   font-family: "Inter", sans-serif;
-  color: #edefee;
+  color: #979797;
   font-weight: lighter;
 }

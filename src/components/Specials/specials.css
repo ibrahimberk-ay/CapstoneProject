@@ -6,6 +6,7 @@
 
 .specials__row_2 {
   height: 500px;
+  max-width: 770px;
   display: flex;
   align-items: center;
   justify-content: center;

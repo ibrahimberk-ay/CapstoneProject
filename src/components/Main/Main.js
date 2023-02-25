@@ -8,7 +8,7 @@ const Main = () => {
     <>
       <Header />
       <Specials />
-      <Subheader />
+      <Subheader color="#495e57" />
     </>
   );
 };

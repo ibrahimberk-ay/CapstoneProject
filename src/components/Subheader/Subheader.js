@@ -2,10 +2,10 @@ import React from "react";
 import "./subheader.css";
 import subheaderimage from "../../materials/Mario and Adrian A.jpg";
 
-const Subheader = () => {
+const Subheader = (props) => {
   return (
     <>
-      <div className="subheader">
+      <div className="subheader" style={{ backgroundColor: props.color }}>
         <div className="subheader__main">
           <div className="subheader_col_1">
             <h1 className="subheader__heading">Little Lemon</h1>
